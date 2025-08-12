@@ -1,18 +1,10 @@
 body {
 
-
-
-
    color: black;
    background: rgb(104, 137, 226);
    margin: 10px;
-   margin-right: 100px;
-   margin-left: 100px;
+   margin-right: 50px;
+   margin-left: 50px;
    font-family: "Chakra Petch", sans-serif;
-
-
-
-
-
-
-
+   text-align: left;
+}   
