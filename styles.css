@@ -1,7 +1,14 @@
-body
-{
-    background-color: rgb(82, 186, 247);
-}
+body {
+
+
+
+
+   color: black;
+   background: rgb(104, 137, 226);
+   margin: 10px;
+   margin-right: 100px;
+   margin-left: 100px;
+   font-family: "Chakra Petch", sans-serif;
 
 
 
